@@ -1,4 +1,3 @@
-# VEARN: Terms of Service
 
 ## 1. Acceptance of Terms
 

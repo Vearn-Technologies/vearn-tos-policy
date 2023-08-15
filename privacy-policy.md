@@ -1,4 +1,3 @@
-# VEARN: Privacy Policy
 
 ## 1. Data Collection
 
